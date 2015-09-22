@@ -1,0 +1,1 @@
+Simple Message Mover (SMM) is a simple application for submitting HL7 messages in realtime to an Immunization Information System (IIS). SMM is designed to be simple and dedicated to support IIS needs.
